@@ -1,5 +1,4 @@
 # Simple Shell in C
-> **Omkar Gurjar, 20171014**
 
 ## Description of Various Files
 
